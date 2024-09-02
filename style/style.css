@@ -1,0 +1,9 @@
+/* add font */
+@font-face {
+    font-family: 'yekan';
+    src: url(../assets/font/BYekan+\ Bold.ttf);
+}
+@font-face {
+    font-family: 'titr';
+    src: url(../assets/font/B\ Titr\ Bold_0.ttf);
+}
